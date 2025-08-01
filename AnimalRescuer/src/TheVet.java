@@ -1,7 +1,6 @@
 public class TheVet {
     private String name;
-
-    public String speciality;
+    private String speciality;
 
     public TheVet(String name, String speciality) {
         this.name = name;
@@ -16,8 +15,12 @@ public class TheVet {
     public String getName() {
         return name;
     }
+    public String getSpeciality() {
+        return speciality;
+    }
 
     public void setName(String name) {
         this.name = name;
     }
+    public void setSpeciality(String speciality) {}
 }
