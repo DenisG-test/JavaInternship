@@ -1,10 +1,12 @@
-public class AnimalFood {
-    private String name;
-    private int price;
+import java.time.LocalDateTime;
 
-    public int quantity;
-    public String expirationDate;
-    public boolean onStock;
+public class AnimalFood {
+
+    private String  name;
+    private int     price;
+    private int     quantity;
+    private String  expirationDate;
+    private boolean onStock;
 
     public AnimalFood(String name, int price, int quantity, String expirationDate, boolean onStock) {
         this.name           = name;
@@ -28,6 +30,11 @@ public class AnimalFood {
     public int getPrice() {
         return price;
     }
+    public int getQuantity() { return quantity; }
+    public String getExpirationDate() {
+        return expirationDate;
+    }
+    public boolean isOnStock() { return onStock; }
 
     public void setName(String name) {
         this.name = name;
@@ -35,4 +42,7 @@ public class AnimalFood {
     public void setPrice(int price) {
         this.price = price;
     }
+    public void setQuantity(int quantity) { this.quantity = quantity; }
+    public void setExpirationDate(LocalDateTime myDateObj) {this.expirationDate = expirationDate;}
+    public void setOnStock(boolean onStock) { this.onStock = onStock; }
 }
