@@ -10,7 +10,7 @@ public class Main {
         System.out.print("b = ");
         int b = scan.nextInt();
 
-        objLogicalOp.countUp(a);
+        /*objLogicalOp.countUp(a);
         System.out.println("////////////////////////////");
         objLogicalOp.countDown(a);
         System.out.println("////////////////////////////");
@@ -25,7 +25,7 @@ public class Main {
         objLogicalOp.calcul();
         System.out.println("Suma numerelor divizibile cu 7 este: " + objLogicalOp.div7(a, b));
         objLogicalOp.showFibonacci();
-        System.out.println();
+        System.out.println();*/
         objLogicalOp.CozaLozaWoza();
 
 
