@@ -125,6 +125,10 @@ public class LogicalOp {
                     }
                 }
             }
+
+            if(i % 11 == 0){
+                output += "\n";
+            }
             if(output.isEmpty()) output += i;
             System.out.print(output + " ");
             i++;
