@@ -9,7 +9,6 @@ public class Animal {
     private int     hungryScore;
     private int     dispositionScore;
 
-
     public Animal(String name, int age, int healthScore, int hungryScore, int dispositionScore, String preferredFood, String preferredActivity) {
         this.name               = name;
         this.age                = age;
@@ -39,14 +38,12 @@ public class Animal {
     public int    getWeight              () {
         return weight;
     }
-
     public int    getHealthScore        () { return healthScore; }
     public int    getHungryScore        () { return hungryScore; }
     public int    getDispositionScore   () { return dispositionScore; }
     public String getPreferredFood      () { return preferredFood; }
     public String getPreferredActivity  () { return preferredActivity; }
     public String getColor              () { return color; }
-
 
     public void setName             (String name)            {
         this.name = name;

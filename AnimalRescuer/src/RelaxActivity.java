@@ -23,5 +23,6 @@ public class RelaxActivity {
         this.duration = duration;
     }
 
+    public void getReady(){ System.out.println("Somebody is ready to go out"); }
 
 }
