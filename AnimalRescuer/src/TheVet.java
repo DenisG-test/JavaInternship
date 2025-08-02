@@ -1,4 +1,4 @@
-public class TheVet {
+public abstract class TheVet {
     private String name;
     private String speciality;
 
@@ -24,11 +24,7 @@ public class TheVet {
         this.speciality = speciality;
     }
 
-    public void isOperating(){
-        System.out.println("The Vet is operating");
-    }
+    public void isOperating(){}
 
-    public void isConsulting(){
-        System.out.println("The Vet is consulting");
-    }
+    public void isConsulting(){}
 }

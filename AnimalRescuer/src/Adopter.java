@@ -1,4 +1,4 @@
-public class Adopter {
+public abstract class Adopter {
     private String name;
     private int budget;
     private int height;
@@ -31,11 +31,7 @@ public class Adopter {
     public void setHeight(int height) { this.height = height; }
     public void setWeight(int weight) { this.weight = weight; }
 
-    public void adopts(){
-        System.out.println("Adopter is trying to adopt");
-    }
-    public void leave(){
-        System.out.println("Adopter is leaving the clinic");
-    }
+    public void adopts(){}
+    public void leave(){}
 
 }

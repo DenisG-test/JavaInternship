@@ -1,4 +1,4 @@
-public class RelaxActivity {
+public abstract class RelaxActivity {
     private String name;
     private int duration;
 
@@ -23,6 +23,6 @@ public class RelaxActivity {
         this.duration = duration;
     }
 
-    public void getReady(){ System.out.println("Somebody is ready to go out"); }
+    public void getReady(){}
 
 }

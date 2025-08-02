@@ -1,4 +1,4 @@
-public class Animal {
+public abstract class Animal {
     private String  name;
     private String  preferredFood;
     private String  preferredActivity;
@@ -59,11 +59,7 @@ public class Animal {
     public void setPreferredActivity(String preferredActivity)  { this.preferredActivity = preferredActivity; }
     public void setColor            (String color) { this.color = color; }
 
-    public void eat(){
-        System.out.println("Animal is eating");
-    }
-    public void sleep(){
-        System.out.println("Animal is sleeping");
-    }
+    public void eat(){}
+    public void sleep(){}
 }
 
