@@ -1,6 +1,6 @@
 import java.time.LocalDateTime;
 
-public class AnimalFood {
+public abstract  AnimalFood {
 
     private String  name;
     private int     price;
@@ -46,10 +46,8 @@ public class AnimalFood {
     public void setExpirationDate(LocalDateTime myDateObj) {this.expirationDate = expirationDate;}
     public void setOnStock(boolean onStock) { this.onStock = onStock; }
 
-    public void spoiled(){
-        System.out.println("The food has spoiled at " + this.expirationDate);
-    }
+    public void spoiled(){}
     public void upstanding(){
-        System.out.println("The food has upstanding at " + this.expirationDate);
+
     }
 }
