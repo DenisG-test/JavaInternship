@@ -15,6 +15,8 @@ public class TheVet {
     public String getName() {
         return name;
     }
+    public String getSpeciality() { return speciality;}
+
     public String getSpeciality() {
         return speciality;
     }
@@ -22,5 +24,17 @@ public class TheVet {
     public void setName(String name) {
         this.name = name;
     }
+    public void setSpeciality(String speciality) {
+        this.speciality = speciality;
+    }
+
+    public void isOperating(){
+        System.out.println("The Vet is operating");
+    }
+
+    public void isConsulting(){
+        System.out.println("The Vet is consulting");
+    }
     public void setSpeciality(String speciality) {}
+
 }
