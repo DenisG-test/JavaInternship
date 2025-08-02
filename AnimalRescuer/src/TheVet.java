@@ -17,6 +17,10 @@ public class TheVet {
     }
     public String getSpeciality() { return speciality;}
 
+    public String getSpeciality() {
+        return speciality;
+    }
+
     public void setName(String name) {
         this.name = name;
     }
@@ -31,4 +35,6 @@ public class TheVet {
     public void isConsulting(){
         System.out.println("The Vet is consulting");
     }
+    public void setSpeciality(String speciality) {}
+
 }

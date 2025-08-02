@@ -24,6 +24,7 @@ public class Adopter {
     public int    getBudget() { return budget; }
     public int    getHeight() { return height; }
     public int    getWeight() { return weight; }
+    public int getBudget() { return budget; }
     public void setName(String name) {
         this.name  = name;
     }
@@ -37,5 +38,4 @@ public class Adopter {
     public void leave(){
         System.out.println("Adopter is leaving the clinic");
     }
-
 }
