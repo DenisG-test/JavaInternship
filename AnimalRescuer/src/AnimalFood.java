@@ -45,6 +45,7 @@ public class AnimalFood {
     public void setQuantity(int quantity) { this.quantity = quantity; }
     public void setExpirationDate(LocalDateTime myDateObj) {this.expirationDate = expirationDate;}
     public void setOnStock(boolean onStock) { this.onStock = onStock; }
+
     public void spoiled(){
         System.out.println("The food has spoiled at " + this.expirationDate);
     }

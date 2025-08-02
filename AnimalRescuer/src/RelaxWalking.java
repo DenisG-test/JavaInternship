@@ -1,5 +1,14 @@
 public class RelaxWalking extends RelaxActivity {
+    public RelaxWalking(String name, int duration) {
+        super(name, duration);
+    }
+
     public RelaxWalking() {
-        System.out.println("RelaxWalking has been created");
+        super();
+    }
+
+    @Override
+    public void getReady() {
+        System.out.println("Somebody is ready to go for a relaxing walking in the morning");
     }
 }
