@@ -9,7 +9,7 @@ import java.util.Map;
 public class Warehouse {
     public static void main(String[] args) {
         PackagesGen warehouseManager = new PackagesGen();
-        warehouseManager.generateStoragePackages(20);
+        warehouseManager.generateStoragePackages(200);
 
         List<Package> packages = warehouseManager.getStoragePackages();
         LocalDate currentDate = LocalDate.now();
