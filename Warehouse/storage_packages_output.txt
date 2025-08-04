@@ -1,0 +1,25 @@
+Package Details: Product Name: Lettuce, Category: Vegetable, Quantity: 30.00 Bag (4 kg), Entry Date: 2025-07-31, Expiration Date: 2025-10-09, Original Price: $118.55, Adjusted Price: $118.55
+Package Details: Product Name: Onions, Category: Vegetable, Quantity: 15.00 Bag (2.5 kg), Entry Date: 2025-07-22, Expiration Date: 2025-08-26, Original Price: $99.93, Adjusted Price: $84.94
+Package Details: Product Name: Biscuits, Category: Other, Quantity: 50.00 Bag (10 kg), Entry Date: 2025-07-12, Expiration Date: 2025-08-16, Original Price: $1127.99, Adjusted Price: $1015.19
+Package Details: Product Name: Chips, Category: Other, Quantity: 20.00 Kg, Entry Date: 2025-07-17, Expiration Date: 2025-09-18, Original Price: $390.88, Adjusted Price: $390.88
+Package Details: Product Name: Broccoli, Category: Vegetable, Quantity: 50.00 Pack, Entry Date: 2025-07-13, Expiration Date: 2025-08-24, Original Price: $263.49, Adjusted Price: $237.14
+Package Details: Product Name: Peaches, Category: Fruit, Quantity: 15.00 Box (6 kg), Entry Date: 2025-07-06, Expiration Date: 2025-08-31, Original Price: $37.88, Adjusted Price: $26.51
+Package Details: Product Name: Chips, Category: Other, Quantity: 15.00 Box (6 kg), Entry Date: 2025-07-08, Expiration Date: 2025-08-12, Original Price: $332.13, Adjusted Price: $298.91
+Package Details: Product Name: Potatoes, Category: Vegetable, Quantity: 15.00 Box (6 kg), Entry Date: 2025-07-25, Expiration Date: 2025-08-29, Original Price: $45.05, Adjusted Price: $38.29
+Package Details: Product Name: Biscuits, Category: Other, Quantity: 15.00 Box (6 kg), Entry Date: 2025-07-15, Expiration Date: 2025-09-16, Original Price: $253.83, Adjusted Price: $253.83
+Package Details: Product Name: Crackers, Category: Other, Quantity: 25.00 Kg, Entry Date: 2025-07-25, Expiration Date: 2025-09-05, Original Price: $691.12, Adjusted Price: $414.67
+Package Details: Product Name: Potatoes, Category: Vegetable, Quantity: 20.00 Kg, Entry Date: 2025-07-06, Expiration Date: 2025-09-07, Original Price: $100.13, Adjusted Price: $80.11
+Package Details: Product Name: Onions, Category: Vegetable, Quantity: 20.00 Kg, Entry Date: 2025-07-11, Expiration Date: 2025-08-22, Original Price: $146.11, Adjusted Price: $131.50
+Package Details: Product Name: Crackers, Category: Other, Quantity: 30.00 Pack, Entry Date: 2025-08-02, Expiration Date: 2025-10-04, Original Price: $518.93, Adjusted Price: $518.93
+Package Details: Product Name: Biscuits, Category: Other, Quantity: 25.00 Box (6 kg), Entry Date: 2025-07-09, Expiration Date: 2025-08-27, Original Price: $220.67, Adjusted Price: $154.47
+Package Details: Product Name: Bananas, Category: Fruit, Quantity: 100.00 Bag (4 kg), Entry Date: 2025-07-17, Expiration Date: 2025-08-21, Original Price: $1798.37, Adjusted Price: $1438.69
+Package Details: Product Name: Crackers, Category: Other, Quantity: 30.00 Bag (4 kg), Entry Date: 2025-07-07, Expiration Date: 2025-08-25, Original Price: $356.25, Adjusted Price: $249.37
+Package Details: Product Name: Broccoli, Category: Vegetable, Quantity: 100.00 Kg, Entry Date: 2025-07-17, Expiration Date: 2025-09-18, Original Price: $253.22, Adjusted Price: $253.22
+Package Details: Product Name: Grapes, Category: Fruit, Quantity: 30.00 Bag (4 kg), Entry Date: 2025-07-12, Expiration Date: 2025-09-20, Original Price: $786.60, Adjusted Price: $786.60
+Package Details: Product Name: Bananas, Category: Fruit, Quantity: 50.00 Pack, Entry Date: 2025-07-16, Expiration Date: 2025-08-20, Original Price: $1271.42, Adjusted Price: $1017.14
+Package Details: Product Name: Apples, Category: Fruit, Quantity: 30.00 Bag (10 kg), Entry Date: 2025-07-30, Expiration Date: 2025-09-17, Original Price: $813.84, Adjusted Price: $813.84
+
+Warehouse Summary:
+Fruit: Total: 225.00 kg, Total Original Price: $4708.10, Total Adjusted Price: $4082.78, Average Discount: 13.28%
+Vegetable: Total: 250.00 kg, Total Original Price: $1026.48, Total Adjusted Price: $943.75, Average Discount: 8.06%
+Other: Total: 210.00 kg, Total Original Price: $3891.81, Total Adjusted Price: $3296.27, Average Discount: 15.30%
